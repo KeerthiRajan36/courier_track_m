@@ -1,1 +1,1 @@
-test
+pip install fastapi uvicorn sqlalchemy pydantic python-jose passlib[bcrypt] python-multipart

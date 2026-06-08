@@ -1,0 +1,4 @@
+DATABASE_URL = "mysql+pymysql://root:root@localhost/courier_db_m"
+SECRET_KEY = "COURIER_SECRET_KEY"
+ALGORITHM ="HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 60
